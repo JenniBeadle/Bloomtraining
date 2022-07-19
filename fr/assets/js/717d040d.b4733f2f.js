@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbloom_website=self.webpackChunkbloom_website||[]).push([[3550],{3900:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/bloomtraining/fr/blog/tags/hola","allTagsPath":"/bloomtraining/fr/blog/tags","count":1}')}}]);
