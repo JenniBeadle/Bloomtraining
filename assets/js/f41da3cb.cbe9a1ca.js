@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbloom_website=self.webpackChunkbloom_website||[]).push([[274],{8020:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/bloomtraining/blog/tags/docusaurus","allTagsPath":"/bloomtraining/blog/tags","count":4}')}}]);
