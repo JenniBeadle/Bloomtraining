@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -34,29 +34,51 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/", // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/JenniBeadle/bloomtraining/',
         },
-        //blog: {
-          //showReadingTime: true,
-          //// Please change this to your repo.
-          //// Remove this to remove the "edit this page" links.
-          //editUrl:
-            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //},
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
   ],
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        language: ["en", "fr"],
+        indexBlog: false,
+        indexPages: false,
+        docsRouteBasePath: "/",
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {
+          name: "keywords",
+          content: "Bloom, SIL, documentation, help, training",
+        },
+      ],
+      sitemap: {
+        // https://www.sitemaps.org/protocol.html#xmlTagDefinitions
+        changefreq: "weekly",
+        priority: 0.5,
+        ignorePatterns: [],
+        },
       navbar: {
         title: 'Bloom Training',
         logo: {
@@ -139,35 +161,3 @@ const config = {
 };
 
 module.exports = config;
-
-plugins: [
-    [
-      'docusaurus-plugin-papersaurus',
-      {
-        keepDebugHtmls: false,
-        sidebarNames: ['someSidebar'],
-        rootDocIds: [
-          { version: 'default', rootDocId: 'start_overview'}
-        ],
-        addDownloadButton: true,
-        autoBuildPdfs: true,
-        downloadButtonText: 'Download as PDF',
-        ignoreDocs: ['licenses'],
-        stylesheets: [],
-        scripts: [],
-        coverPageHeader: `...`,
-        coverPageFooter: `...`,
-        getPdfCoverPage: (siteConfig, pluginConfig, pageTitle, version) => {
-          return `...`;
-        },
-        getPdfPageHeader: (siteConfig, pluginConfig, pageTitle) => {
-          return `...`;
-        },
-        getPdfPageFooter: (siteConfig, pluginConfig, pageTitle) => {
-          return `...`;
-        },
-        author: 'Author name',
-        footerParser: /© SIL International. \d{4}-\d{2}-\d{2}Page \d* \/ \d*/g,
-      },
-    ],
-  ]

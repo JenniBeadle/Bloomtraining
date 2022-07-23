@@ -21,8 +21,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://vimeo.com/channels/bloomlibrary">
+            to="https://vimeo.com/channels/bloomlibrary"><Translate>
             Bloom Training Videos ⏱️
+            </Translate>
           </Link>
         </div>
       </div>

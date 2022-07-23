@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/JenniBeadle/Bloomtraining"
   },
   "copyright": {
-    "message": "Copyright © 2022 SIL International & Alliance biblique universelle. Tous droits réservés. Construit avec Docusaurus.",
+    "message": "Copyright © 2022 SIL International. Tous droits réservés. Construit avec Docusaurus.",
     "description": "The footer copyright"
   },
   "link.item.label.Training": {
