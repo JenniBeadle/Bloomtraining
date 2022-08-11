@@ -1,4 +1,5 @@
 ﻿---
+id: intro
 title : Cours pour apprendre Bloom 
 sidebar_position : 1
 ---

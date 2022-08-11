@@ -12,14 +12,14 @@ On va continuer à utiliser le nouveau modèle **Livre simple** (même s’il ex
 -   Nous allons d’abord créer un nouveau livre en format A6.
 -   Ensuite, nous le publier en format simple A4.
 
-**4.1 Créer un livre simple A6**
+### 4.1 Créer un livre simple A6
 
 -   Lancez Bloom
 -   Créez un Livre simple (voir Chapitre 2)
 -   Vérifiez la taille de la page est A6
 -   Éditer le livre
 
-**4.2 Compléter le livre comme désiré**
+### 4.2 Compléter le livre comme désiré
 
 -   Remplissez
 -   la couverture
@@ -29,7 +29,7 @@ On va continuer à utiliser le nouveau modèle **Livre simple** (même s’il ex
 -   Changer les images
 -   Remplissez la page de crédits.
 
-**4.3 Publier - simple**
+### 4.3 Publier - simple
 
 Pour l'imprimer comme un Gros Livre, vous le publiez Simple sur du papier A4.
 

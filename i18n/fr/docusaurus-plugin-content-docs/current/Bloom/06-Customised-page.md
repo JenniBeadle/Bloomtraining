@@ -7,11 +7,11 @@ Ce module explique comment.créer une page personnalisée dans un livre.
 
 Regardez le vidéo **Bloom_custompage-SD.mp4**.
 
-**6.1 Commencer Bloom**
+### 6.1 Commencer Bloom
 
 -   *La fenêtre principale apparaît.*
 
-**6.2 Choisir une collection**
+### 6.2 Choisir une collection
 
 -   Vérifiez que la bonne collection est ouverte.
 -   Sinon, cliquez sur **Autres collections**.
@@ -22,19 +22,19 @@ Regardez le vidéo **Bloom_custompage-SD.mp4**.
 
     *La fenêtre principale réapparaît*.
 
-**6.3 Créer un livre**
+### 6.3 Créer un livre
 
 -   Dans le volet **Sources pour nouveaux livres**, cliquez sur **Livre simple**.
 -   Cliquez sur **Créer un livre depuis cette source**.
 -   Dans la page **Couverture extérieur**, saisissez un titre.
 
-**6.4 Personnaliser une page – modifier la taille des champs**
+### 6.4 Personnaliser une page – modifier la taille des champs
 
 -   Vous pouvez modifier la taille des champs de texte et des images **en faisant glisser la ligne de séparation** entre eux.
 
     ![](media/c9d3862479c9bcf5cc0905eb5c1e5c9c.png)
 
-**6.5 Personnaliser une page – ajouter des champs**
+### 6.5 Personnaliser une page – ajouter des champs
 
 -   Cliquez droit sur le bouton **Modifier la mise en page**.
 
@@ -52,7 +52,7 @@ Regardez le vidéo **Bloom_custompage-SD.mp4**.
 
     ![](media/f6b55a4318256aa9c86a6a1eca745caa.png)
 
-**6.6 Créer une page Personnalisée**
+### 6.6 Créer une page Personnalisée
 
 -   Pour créer une page personnalisée, cliquez sur **Ajouter une page**,
 -   Sélectionnez **Personnalisation**,
@@ -60,7 +60,7 @@ Regardez le vidéo **Bloom_custompage-SD.mp4**.
 
     *Une page personnalisée s’affiche et est prête à être modifiée*.
 
-**6.7 Définir la page**
+### 6.7 Définir la page
 
 -   Utilisez les symboles **+** pour ajouter de nouveaux champs.
 -   Cliquez sur **X** pour supprimer de champs.

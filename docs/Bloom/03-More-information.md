@@ -3,7 +3,7 @@ title: 3 More information
 ---
 This chapter contains more information about creating collections and editing pages.
 
-## 3.1 The collection
+## 3.1 The collection{#3.1}
 
 For most of your work, you would use the collection for your language. But there are times when you will want to either switch to another collection or create a new one.
 
@@ -55,7 +55,7 @@ For most of your work, you would use the collection for your language. But there
 
     *The main window reappears*.
 
-## 3.2 The page
+## 3.2 The page{#3.2}
 
 **Rearrange the pages of the book**.
 
@@ -71,7 +71,7 @@ For most of your work, you would use the collection for your language. But there
 
     *The page is deleted*.
 
-## 3.3 Text
+## 3.3 Text{#3.3}
 
 **Edit the book - format the text**.
 
@@ -91,7 +91,7 @@ For most of your work, you would use the collection for your language. But there
 - Choose any other formatting you wish.
 - Click on any other part of the page to close the box. *The box is closed*.
 
-## 3.4 Pictures
+## 3.4 Pictures{#3.4}
 
 **Add (change) a picture** [5] Click on the "Add (change) a picture" icon.
 

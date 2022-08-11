@@ -11,7 +11,7 @@ Before you can create a book in Bloom, the program must be installed on your com
 
 **Why is it important?**
 
-Books in Bloom are stored in a collection. A collection can also contain templates to use when creating a new book. All books are created, edited and published in the same way. The single book is the simplest type of book, so it is the best way to start learning Bloom.
+Books in Bloom are stored in a collection. A collection can also contain templates to use when creating a new book. All books are created, edited and published in the same way. The simple book is the simplest type of book, so it is the best way to start learning Bloom.
 
 **What will you do?**
 
@@ -27,7 +27,7 @@ Books in Bloom are stored in a collection. A collection can also contain templat
 
 - (From the Start menu, choose Bloom)
 
-    *When Bloom is first opened, your Collection will be empty.
+    *When Bloom is first opened, your Collection will be empty*.
 
 - ![](media/439c81de0193fe8f434ece9ab1550d44.png)
 
@@ -87,7 +87,7 @@ Edit the cover as follows:
 - Click on **OK**.
 - Change the title page as desired.
 
-    For details, see [3.4](#sImages).
+    For details, see [3.4 pictures](03-More-information#3.4).
 
 **Edit the book - add a page
 
@@ -249,14 +249,14 @@ Edit book - add image** Click on the **Change Image** icon in the image frame.
 - Click on an image
 - Click on **OK**.
 
-    For details, see [3.4](#sImages).
+    For details, see [3.4 pictures](03-More-information#3.4).
 
 **Edit book - add text
 
 - Click on the text box.
 - Enter the text.
 
-    For details see [3.3](#sText).
+    For details see [3.3 text](03-More-information#3.3).
 
 **Edit Book - Copyright Page** Click on the credits page (at the bottom of the page).
 
