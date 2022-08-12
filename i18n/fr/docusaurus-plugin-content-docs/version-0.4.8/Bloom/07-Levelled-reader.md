@@ -15,7 +15,7 @@ Dans la prochaine session, nous allons créer des livres déchiffrables pour fac
 -   Configurer les niveaux.
 -   Créer des livres aux niveaux divers.
 
-**7.1 Choisir la collection**
+### 7.1 Choisir la collection
 
 -   Si nécessaire, cliquez sur **Autres collections**.
 
@@ -25,7 +25,7 @@ Dans la prochaine session, nous allons créer des livres déchiffrables pour fac
 
     *La fenêtre principale réapparaît.*
 
-**7.2 Créer un livre**
+### 7.2 Créer un livre
 
 -   Dans le volet **Sources pour des nouveaux livres**, sélectionnez le modèle de **Livre par niveau**.
 -   Cliquez sur **Créer un livre depuis cette source**.
@@ -33,7 +33,7 @@ Dans la prochaine session, nous allons créer des livres déchiffrables pour fac
 
     *Le volet « Outil de livre par niveau » s’affiche.*
 
-**7.3 Configurer les niveaux**
+### 7.3 Configurer les niveaux
 
 -   Dans le volet **Outil de livre gradué**, cliquez sur le lien **Configurer les niveaux**.
 
@@ -45,7 +45,7 @@ Dans la prochaine session, nous allons créer des livres déchiffrables pour fac
 
     ![](media/8a7973c7191f1d04321fd274b6db831f.png)
 
-**7.4 Configurer niveau 1**
+### 7.4 Configurer niveau 1
 
 Maintenant nous voulons définir chaque niveau selon nos règles. Notez qu’il y a six niveaux définis préalablement. Nous voulons les modifier et ajouter des niveaux supplémentaires si nécessaire.
 
@@ -55,7 +55,7 @@ Maintenant nous voulons définir chaque niveau selon nos règles. Notez qu’il 
 -   4\. Définissez le nombre **maximum de mots par livre** (par exemple, 20).
 -   5\. Si vous le souhaitez, nous pourrions définir le **maximum de mots uniques par livre** (par exemple, 10).
 
-**7.5 Configurer les autres niveaux**
+### 7.5 Configurer les autres niveaux
 
 -   Configurez les autres niveaux comme désiré.
 -   Voilà quelques suggestions dans le tableau :
@@ -73,18 +73,18 @@ Maintenant nous voulons définir chaque niveau selon nos règles. Notez qu’il 
 | 6          | 20      | 50      | 1000    |         |
 | 6          | 20      | 50      | 1000    |         |
 
-**7.6 Supprimer un niveau**
+### 7.6 Supprimer un niveau
 
 -   1\. Cliquez sur le niveau
 -   2\. Cliquez sur le lien **Retirer le niveau**.
 
     ![](media/17d0756b3257e41f89fe056fffb061bc.png)
 
-**7.7 Modifier l’ordre**
+### 7.7 Modifier l’ordre
 
 -   Faites glisser les lignes pour changer l'ordre.
 
-**7.8 Ajouter un niveau**
+### 7.8 Ajouter un niveau
 
 -   Cliquez sur le lien **Ajouter un niveau**.
 
@@ -94,13 +94,13 @@ Maintenant nous voulons définir chaque niveau selon nos règles. Notez qu’il 
 
     ![](media/94a7fa16eca062335a679955c57d8af0.png)
 
-**7.9 Ajouter des notes à l’auteur**
+### 7.9 Ajouter des notes à l’auteur
 
 -   Nous pouvons mettre des notes à l’auteur dans la zone de texte **Ce qu’il faut se rappeler pour ce niveau**.
 
     ![](media/a1de1b27e473068a9abf63502efc3bbf.png)
 
-**7.10 Créer le livre**
+### 7.10 Créer le livre
 
 Après avoir défini tous les niveaux, nous sommes prêts à créer notre livre gradué.
 

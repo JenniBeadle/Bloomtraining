@@ -20,7 +20,7 @@ Quand vous voulez créer un livre que d’autres peuvent traduire dans leur prop
 -   Nous allons d’abord créer une nouvelle collection source puis créer un livre canevas.
 -   Ensuite, nous ferons un pack Bloom pour cette collection qui peut être envoyée à d’autres pour créer des livres dans leur langue.
 
-**5.1 Créer une collection source**
+### 5.1 Créer une collection source
 
 -   1\. Si nécessaire, lancez Bloom
 -   2\. Cliquez sur le bouton ![](media/6128b88b3b78eb5246da46d4b763964d.png) **Autre collection.**
@@ -50,7 +50,7 @@ Par défaut, Bloom règle la langue 1 et la langue 2 sur l'anglais. Vous devez c
 -   Cliquez sur **OK**
 -   répéter pour la deuxième langue (Langue 2 \> FR)
 
-**5.2 Créer un livre canevas**
+### 5.2 Créer un livre canevas
 
 **Vérifier le pack de mise en page**
 
@@ -69,7 +69,7 @@ Vous créez des livres sources de la même manière qu'auparavant.
 -   Cliquez sur un modèle comme **Livre simple**.
 -   Cliquez sur **Créer un livre depuis cette source**.
 
-**5.3 Compléter le livre comme désiré**
+### 5.3 Compléter le livre comme désiré
 
 -   Remplissez
 -   la couverture
@@ -79,7 +79,7 @@ Vous créez des livres sources de la même manière qu'auparavant.
 -   Changer les images
 -   Remplissez la page de crédits.
 
-**5.4 Pack Bloom**
+### 5.4 Pack Bloom
 
 Vous utilisez les packs Bloom pour partager des livres des collections sources avec d'autres utilisateurs. Avant de pouvoir utiliser un livre dans un pack Bloom, vous devez l'installer.
 

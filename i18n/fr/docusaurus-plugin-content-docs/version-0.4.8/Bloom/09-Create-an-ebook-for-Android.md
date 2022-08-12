@@ -1,6 +1,7 @@
 ---
 title: Créer un livre electronique (pour Android) (09)
 ---
+
 **Introduction**
 
 Bloom peut également créer des livres électroniques qui peuvent être lus sur un Smartphone Android en utilisant l'app Bloom Reader. Ce module explique comment formater votre livre pour un Android et aussi comment transférer le livre sur le téléphone.
@@ -19,7 +20,7 @@ Les livres électroniques sont moins chers à produire, cependant, vous devez av
 -   Vous ouvrez ensuite votre livre et le reformatez pour qu'il s'adapte à un écran Android
 -   Puis, vous publiez le livre sur votre appareil Android.
 
-**9.1 Choisir la collection**
+### 9.1 Choisir la collection
 
 ![](media/43c48a16d55d7c6c8956892963e130f4.png)
 
@@ -35,7 +36,7 @@ Les livres électroniques sont moins chers à produire, cependant, vous devez av
 
 -   Sélectionnez le livre désirée.
 
-**9.2 Reformater votre livre pour Android**
+### 9.2 Reformater votre livre pour Android
 
 ![](media/e366b74e69c9746a4f60204d8e75e19c.png)
 
@@ -54,7 +55,7 @@ Vous devez changer la taille de la page et vérifier chaque page pour vous assur
 
 -   Vérifiez chaque page pour vous assurer qu'elle s'affiche correctement à l'écran. Si ce n'est pas le cas, apportez les modifications nécessaires aux pages problématiques.
 
-**9.3 Publier votre livre à Android**
+### 9.3 Publier votre livre à Android
 
 Pour publier votre livre sur votre Android, vous devez connecter votre appareil, faire quelques réglages et ensuite envoyer le livre. Voir ci-dessous pour les instructions sur la façon de procéder.
 
@@ -82,35 +83,3 @@ Pour publier votre livre sur votre Android, vous devez connecter votre appareil,
 
 Une fois l'envoi terminé. Sur votre Android, jouez le livre envoyé. Parfois, tout le texte ne sera pas affiché sur l'Android. Vous pouvez avoir besoin de faire quelques ajustements dans le livre Bloom pour que tout le texte s'adapte, puis le publier à nouveau.
 
-**A**
-
-**Les caractères de Tchad Unicode**
-
-Certains des caractères utilisés dans les langues tchadiennes ne se trouvent pas sur le clavier. Pour les taper, vous devez appuyer sur plus qu’une touche. Les tableaux ci-dessous montrent tous les caractères du Tchad.
-
-| **Les caractères du Tchad** | **Les tons**             |    |                  |
-|-----------------------------|--------------------------|----|------------------|
-| **Tapez ... pour avoir**    | **Tapez ... pour avoir** |    |                  |
-| ;’ ’                        | ;n ŋ                     | ]  | à ton bas        |
-| ;b ɓ                        | ;o ɔ                     | [  | á ton haut       |
-| ;c ç                        | ;p œ                     | =  | ā ton moyen      |
-| ;d ɗ                        | ;y ƴ                     | \^ | â ton descendant |
-| ;e ɛ                        |                          | \| | ǎ ton montant    |
-| ;f ə                        |                          | \# | ä umlaut         |
-| ;h ɦ                        |                          | \~ | ã tilde          |
-| ;k ɨ                        |                          | \_ | a̰ sous-tilda     |
-| ;m ɲ                        |                          | \` | a̧ cédille        |
-
-Table A.1
-
-| **Tapez** | **pour** **avoir** |   | **Tapez** | **Pour** **avoir** |   | **Tapez** | **Pour** **avoir** |   | **Tapez**   | **Pour** **avoir** |
-|-----------|--------------------|---|-----------|--------------------|---|-----------|--------------------|---|-------------|--------------------|
-| ;]        | ]                  |   | ;\#       | \#                 |   | ;;        | ;                  |   | ;\< ou \<\< | «                  |
-| ;[        | [                  |   | ;\~       | \~                 |   | ;{        | “                  |   | ;\> ou \>\> | »                  |
-| ;=        | =                  |   | ;\_       | \_                 |   | ;}        | ”                  |   | ;,          | ‹                  |
-| ;\^       | \^                 |   | ;\`       | \`                 |   | ;(        | ’                  |   | ;.          | ›                  |
-| ;\|       | \|                 |   |           |                    |   | ;)        | ’                  |   |             |                    |
-
-Table A.2
-
-**References**

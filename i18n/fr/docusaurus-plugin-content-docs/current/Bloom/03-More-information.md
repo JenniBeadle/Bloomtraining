@@ -3,7 +3,7 @@ title: Pour en savoir plus (03)
 ---
 Ce chapitre contient plus d'informations sur la création de collections et l'édition de pages.
 
-### 3.1 La collection{#3.1}
+### 3.1 La collection{#31}
 
 Pour la plupart de votre travail, vous utiliseriez la collection pour votre langue. Mais il y a des moments où vous voudrez soit passer à une autre collection, soit en créer une nouvelle.
 
@@ -55,7 +55,7 @@ Pour la plupart de votre travail, vous utiliseriez la collection pour votre lang
 
     *La fenêtre principale réapparaît*.
 
-### 3.2 La page{#3.2}
+### 3.2 La page{#32}
 
 **Réorganiser les pages du livre**
 
@@ -71,7 +71,7 @@ Pour la plupart de votre travail, vous utiliseriez la collection pour votre lang
 
     *La page est supprimée*.
 
-### 3.3 Texte{#3.3}
+### 3.3 Texte{#33}
 
 **Éditer le livre — formater le texte**
 
@@ -91,7 +91,7 @@ Pour la plupart de votre travail, vous utiliseriez la collection pour votre lang
 -   Choisissez tout autre formatage désiré.
 -   Cliquez sur n’importe quelle autre partie de la page pour fermer la boîte. *La boîte est fermée*.
 
-### 3.4 Images{#3.4}
+### 3.4 Images{#34}
 
 **Ajouter (changer) une image**
 

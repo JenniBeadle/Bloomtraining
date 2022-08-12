@@ -15,7 +15,7 @@ Quand les gens commencent à apprendre à lire, ils ont besoin de beaucoup de pr
 -   Régler les étapes en ajoutant les graphèmes, la liste de mots et la définition des lettres et des mots à vue pour chacune des étapes.
 -   Créer un livre déchiffrable de niveau 1.
 
-**8.1 Choisir la collection**
+### 8.1 Choisir la collection
 
 -   Si nécessaire, démarrez Bloom
 -   Vérifiez que la bonne collection est overte.
@@ -27,12 +27,12 @@ Quand les gens commencent à apprendre à lire, ils ont besoin de beaucoup de pr
 
     *La fenêtre principale réapparaît.*
 
-**8.2 Créer un livre déchiffrable**
+### 8.2 Créer un livre déchiffrable
 
 -   Dans le volet **Sources pour des nouveaux livres**, sélectionnez le modèle de **Livre déchiffrable**.
 -   Cliquez sur **Créer un livre depuis cette source**.
 
-**8.3 Configurer les étapes**
+### 8.3 Configurer les étapes
 
 -   Si nécessaire, cliquez sur ![](media/4174200024cb1d6577fcc3286ec3334a.png) (à droite) pour voir le volet d'outils.
 -   Dans le volet **Outil du livre déchiffrable**, cliquez sur **Configurer les étapes**.
@@ -41,14 +41,14 @@ Quand les gens commencent à apprendre à lire, ils ont besoin de beaucoup de pr
 
     *La boîte de dialogue s’affiche*. Voir dessous.
 
-**8.4 Ajouter des graphèmes**
+### 8.4 Ajouter des graphèmes
 
 -   Cliquez sur l’onglet **Lettres**.
 -   Saisissez ou collez les lettres souhaitées dans la zone de texte **Lettres et ensembles de lettres**.
 
     ![](media/fffa9eb702c6cba948c1c2f65c274cee.png)
 
-**8.5 Ajouter une liste de mots (des mots suggérés)**
+### 8.5 Ajouter une liste de mots (des mots suggérés)
 
 -   Cliquez sur l’onglet **Exemples de mots**.
 -   Tapez ou collez les mots suggérés dans la zone de texte **1) Tapez les mots ici**.

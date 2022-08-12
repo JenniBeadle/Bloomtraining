@@ -6,29 +6,29 @@ title: Appendix A
 
 Some of the characters used in Chadian languages are not found on the keyboard. To type them, you must press more than one key. The tables below show all the Chadian characters.
 
-| **Chadian characters** | **Tones** | |
+
+| **Les caractères du Tchad** | **   & Les tons**             |    |                  |
 |-----------------------------|--------------------------|----|------------------|
-| **Tap ... to have** | **Tap ... to have** | |
-| ;' ' | ;n ŋ | ] | low tone |
-| b ɓ | ;o ɔ | [ | high tone |
-| c ç | p œ | = | ā mid tone |
-| d ɗ | ;y ƴ | \^ | â fallig tone |
-| ǎ your rising tone |
-| f ə | ä umlaut |
-| h ɦ | ã tilde |
-| ã tilde | | k ɨ | a̰ subtilda |
-| m ɲ | \` | a̧ cedilla |
+| **Tapez ... pour avoir**    | **Tapez ... pour avoir** |    |                  |
+| ;’ ’                        | ;n ŋ                     | ]  | à ton bas        |
+| ;b ɓ                        | ;o ɔ                     | [  | á ton haut       |
+| ;c ç                        | ;p œ                     | =  | ā ton moyen      |
+| ;d ɗ                        | ;y ƴ                     | \^ | â ton descendant |
+| ;e ɛ                        |                          | \| | ǎ ton montant    |
+| ;f ə                        |                          | \# | ä umlaut         |
+| ;h ɦ                        |                          | \~ | ã tilde          |
+| ;k ɨ                        |                          | \_ | a̰ sous-tilda     |
+| ;m ɲ                        |                          | \` | a̧ cédille        |
 
 Table A.1
 
-| **Type** | **for** **have** | **Type** | **for** **have** | **Type** | **for** **have** | **Type** | **for** **have** |
+| **Tapez** | **pour** **avoir** |   | **Tapez** | **Pour** **avoir** |   | **Tapez** | **Pour** **avoir** |   | **Tapez**   | **Pour** **avoir** |
 |-----------|--------------------|---|-----------|--------------------|---|-----------|--------------------|---|-------------|--------------------|
-| ;] | ] | ;\# | | ;; | ; ;\< or \<< | " |
-| ;[ | | ;\~ | | ;{ | " | ;\> or \>\> | " |
-| ;= | = | | ;\_ | \_ | | ;} | " | | ;, | ' |
-| ;\^ | \^ | | ;\` | \` | | ;( | ' | | ;. | ' |
-| ;\| | \| | | | | | ;) | ' | | | |
+| ;]        | ]                  |   | ;\#       | \#                 |   | ;;        | ;                  |   | ;\< ou \<\< | «                  |
+| ;[        | [                  |   | ;\~       | \~                 |   | ;{        | “                  |   | ;\> ou \>\> | »                  |
+| ;=        | =                  |   | ;\_       | \_                 |   | ;}        | ”                  |   | ;,          | ‹                  |
+| ;\^       | \^                 |   | ;\`       | \`                 |   | ;(        | ’                  |   | ;.          | ›                  |
+| ;\|       | \|                 |   |           |                    |   | ;)        | ’                  |   |             |                    |
 
 Table A.2
 
-**References**

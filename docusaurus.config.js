@@ -66,20 +66,9 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      metadata: [
-        {
-          name: "keywords",
-          content: "Bloom, SIL, documentation, help, training",
-        },
-      ],
-/*       sitemap: {
-        // https://www.sitemaps.org/protocol.html#xmlTagDefinitions
-        changefreq: "weekly",
-        priority: 0.5,
-        ignorePatterns: [],
-        },
- */      navbar: {
+    (
+      {
+      navbar: {
         title: 'Bloom Training',
         logo: {
           alt: 'BloomLogo',
@@ -116,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Training',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },

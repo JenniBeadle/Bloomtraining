@@ -14,5 +14,5 @@ Les participants produiront une variété de livres de lecture, de différentes 
 -   Définir les paramètres de la langue
 -   Créer des livres déchiffables
 -   Créer des livres à différents niveaux
--   Créer des livres électroniques
+-   Créer des livres électroniques pour Androïd
 
